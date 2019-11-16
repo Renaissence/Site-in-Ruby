@@ -1,25 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This a data model app with no controller or views, so in order to be viewed in humans perspective, there is a need to add views and controllers
 
-Things you may want to cover:
 
-* Ruby version
+* Ruby version 2.6.5p114
 
 * System dependencies
 
 * Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
+* Database Sqlite3
 * ...
 "# Site-in-Ruby" 
